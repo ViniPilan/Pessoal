@@ -99,7 +99,7 @@ Ao final das três etapas, estará disponível o algoritmo preditivo de diagnós
 
 ## Sobre o autor
 
-Me chamo Vinícius de Paula Pilan, sou estudante de Ciência da Computação na *Universidade Estadual Paulista - Júlio de Mesquita Filho - UNESP* e tenho muito interesse em me profissionalizar na área de Ciência de Dados. Atualmente busco aprender cada vez mais sobre a área e esse projeto será um meio para adquirir ainda mais conhecimento nessa área maravilhosa.
+Me chamo Vinícius de Paula Pilan, sou estudante de Ciência da Computação na *Universidade Estadual Paulista - Júlio de Mesquita Filho - UNESP* e tenho muito interesse em me profissionalizar na área de Ciência de Dados. Atualmente busco aprender cada vez mais sobre o assunto e esse projeto será um meio para adquirir ainda mais conhecimento nessa área tão importante.
 
 Agradeço pelo seu interesse no meu projeto!
 

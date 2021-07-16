@@ -1,4 +1,4 @@
-# Software de diagnóstico precoce de doença cardíaca utilizando algoritmo preditivo/ early diagnosis software of heart disease using predictive algorithm
+# Software de diagnóstico precoce de doença cardíaca utilizando algoritmo preditivo / early diagnosis software of heart disease using predictive algorithm
 
 <br/>
 
@@ -40,15 +40,15 @@ Como é possível observar, a doença coronariana e a cerebrovascular são as du
 ## Objetivo desse projeto
 
 
-Sabendo da gravidade desses problemas, o cuidado com a saúde cardíaca e a valorização do médico cardiologista são fundamentais para garantir longevidade e o bem estar da população. 
+Sabendo da gravidade desses problemas, o cuidado com a saúde cardíaca e a valorização do médico cardiologista são fundamentais para garantir longevidade e o bem estar da população. Tendo isso em vista, esse trabalho visa possibilitar qualquer pessoa a fazer uma autoavaliação simples para entender se está em alguma situação de risco, com pré-disposição de desenvolver algum tipo de doença cardíaca. 
 
-Tendo isso em vista, esse trabalho visa possibilitar qualquer pessoa a fazer uma autoavaliação simples para entender se está em alguma situação de risco, com pré-disposição de desenvolver algum tipo de doença cardíaca. A ideia é apresentar uma solução que possa diminuir do número de óbitos relacionados a essas doenças, pois o indivíduo já obteria conhecimento do risco da situação em que se encontra antes mesmo de esperar algo acontecer para ir ao médico. Assim, poderia já procurar um médico especialista (caso julgar necessário), antes mesmo da doença se desenvolver e apresentar sinais. 
+A ideia é apresentar uma solução que possa diminuir do número de óbitos relacionados a essas doenças, pois o indivíduo já obteria conhecimento do risco da situação em que se encontra antes mesmo de esperar algo acontecer para ir ao médico. Assim, poderia já procurar um médico especialista, caso julgar necessário, antes mesmo da doença se desenvolver e apresentar sinais. 
 
-Uma autoavaliação fácil assim pode ainda incentivar pessoas que negligenciam exames de rotina, pois estas muitas vezes podem justamente vir a óbito por descobrir tarde demais o estágio da doença. Um indivíduo desses, veria que sua condição não estaria boa, de acordo com a autoavaliação, e procuraria um médico para fazer exames e melhorar suas condições.
+Uma autoavaliação assim pode ainda incentivar pessoas que negligenciam exames de rotina, pois estas muitas vezes podem justamente vir a óbito por descobrir tarde demais o estágio da doença. Um indivíduo desses, veria que sua condição não estaria boa, de acordo com a autoavaliação, e procuraria um médico para fazer exames e melhorar suas condições.
 
-Essa autoavaliação proposta é feita por meio de um software de fácil uso que será criado ao final do projeto. Através desse tal software, o indivíduo pdoerá obter seu diagnóstico auxiliar, geral e preditivo, por meio de um algoritmo de aprendizado de máquina que, ao **receber algumas informações sobre o indivíduo**, **retornará uma probabilidade daquela pessoa estar com algum problema cardíaco**. Essa probabilidade será o diagnóstico precoce feito pelo software.
+Essa autoavaliação proposta é feita por meio de um software de fácil uso que será criado ao final do projeto. Através desse tal software, o indivíduo poderá obter seu diagnóstico auxiliar por meio de um algoritmo de aprendizado de máquina que, ao **receber algumas informações sobre o indivíduo**, **retornará uma probabilidade daquela pessoa estar com algum problema cardíaco**. Essa probabilidade será o diagnóstico precoce feito pelo software.
 
-**Vale ressaltar que tal diagnóstico é geral, ou seja, para qualquer doença cardíaca, e portanto, o mesmo deve ser considerado apenas como um auxílio/autoavaliação para o indivíduo que o utilizará e não como um diagnóstico definitivo. Além do mais, assim como qualquer resultado de classificação, o resultado obtido aqui pode ser um Falso-Positivo ou um Falso-Negativo, não representando de fato a realidade da pessoa analisada. Portanto, ESSE SOFTWARE JAMAIS DEVE SUBSTITUIR QUALQUER EXAME, OPINIÃO MÉDICA OU CONSULTA.**
+**Vale ressaltar que tal diagnóstico é muito genérico, ou seja, não diagnóstica nenhuma doença específica, apenas que o indivíduo possa ter ou desenvolver doenças cárdicas no geral. Portanto, o mesmo deve ser considerado apenas como um auxílio/autoavaliação para o indivíduo que o utilizará e não como um diagnóstico definitivo. Além do mais, assim como qualquer resultado de classificação, o resultado obtido aqui pode ser um Falso-Positivo ou um Falso-Negativo, não representando de fato a realidade da pessoa analisada. Portanto, ESSE SOFTWARE JAMAIS DEVE SUBSTITUIR QUALQUER EXAME, OPINIÃO MÉDICA OU CONSULTA.**
 
 
 <br/>

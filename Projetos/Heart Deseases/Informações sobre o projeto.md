@@ -21,10 +21,10 @@ A *doença coronariana, doença isquêmica do coração*, e a *doença cerebroba
 
 ![gráfico01](Imagens/gráfico01.png)
 
-<center> Fonte: <a href="https://www.uol.com.br/vivabem/noticias/redacao/2020/10/16/isquemia-cardiaca-foi-a-doenca-que-mais-matou-no-brasil-em-2019-diz-estudo.htm">[UOL] Doenças isquêmicas do coração foram maior causa de morte no Brasil em 2019...</a></center>
+<p align=center>Fonte: <a href="https://www.uol.com.br/vivabem/noticias/redacao/2020/10/16/isquemia-cardiaca-foi-a-doenca-que-mais-matou-no-brasil-em-2019-diz-estudo.htm">[UOL] Doenças isquêmicas do coração foram maior causa de morte no Brasil em 2019...</a></p>
+
 
 <br/>
-
 
 Como se pode observar, a doença coronariana e a cerebrovascular são as duas que mais matam desde 2009 até os dias atuais.
 

@@ -107,5 +107,5 @@ Agradeço pelo seu interesse no meu projeto!
 
 Contato:
 - Email: vinicius.pilan@unesp.br
-- LinkedIn: Vinícius Pilan
+- LinkedIn: Vinícius de Paula Pilan
 - GitHub: ViniPilan

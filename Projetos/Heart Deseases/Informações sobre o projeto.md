@@ -2,11 +2,7 @@
 
 ## Introdução
 
-<br/>
-
 O termo doença cardíaca é um termo geral usado para se referir a **vários tipos de doenças que envolvem um ou mais componentes do coração**. As principais doenças cardíacas são: 
-
-<br/>
 
 
 <ul>
@@ -22,14 +18,13 @@ O termo doença cardíaca é um termo geral usado para se referir a **vários ti
 
 A *doença coronariana, doença isquêmica do coração*, e a *doença cerebrobascular* são as piores doenças do gênero quando se trata de óbitos. Através da imagem abaixo, pode-se perceber a gravidade dessas doenças. A figura abaixo, retirada do site UOL sobre uma pesquisa feita em 2019, compara o número de mortes das principais doenças no mundo entre o ano de 2009 e o de 2019):
 
-<br/>
 
 ![gráfico01](Imagens/gráfico01.png)
 
 <center> Fonte: <a href="https://www.uol.com.br/vivabem/noticias/redacao/2020/10/16/isquemia-cardiaca-foi-a-doenca-que-mais-matou-no-brasil-em-2019-diz-estudo.htm">[UOL] Doenças isquêmicas do coração foram maior causa de morte no Brasil em 2019...</a></center>
 
 <br/>
-<br/>
+
 
 Como se pode observar, a doença coronariana e a cerebrovascular são as duas que mais matam desde 2009 até os dias atuais.
 
@@ -38,11 +33,10 @@ Como se pode observar, a doença coronariana e a cerebrovascular são as duas qu
 **Essa pesquisa foi feita desconsiderando os impactos causados pelo Corona Vírus COVID-19. Como a pandemia ainda é o contexto atual, a analise de seus impactos ainda é complexa de se realizar e por isso foi optado pela desconsideração da doença.**
 
 <br/>
-<br/>
+
 
 ## Objetivo desse trabalho
 
-<br/>
 
 Sabendo da gravidade dos problemas cardíacos, o cuidado com a saúde cardíaca e a valorização do médico cardiologista são fundamentais para garantir longevidade e bem estar da população. 
 
@@ -52,12 +46,12 @@ O indivíduo terá seu diagnóstico auxiliar, geral e preditivo, por meio de um 
 
 Vale ressaltar que tal diagnóstico é geral, ou seja, para qualquer doença cardíaca, e portanto, o mesmo deve ser considerado apenas um auxílio para o indivíduo que o utilizará e não como um diagnóstico definitivo. Além do mais, assim como qualquer resultado de classificação, o resultado obtido aqui pode ser um Falso-Positivo ou um Falto-Negativo, não representando de fato a realidade da pessoa analisada.
 
-<br/>
+
 <br/>
 
 ## Sobre os dados utilizados nesse projeto
 
-<br/>
+
 
 A construção do algoritmo que realizará o diagnóstico precoce será feita apartir dos dados disponíveis no dataset [Cholesterol](https://www.kaggle.com/mathurinache/cholesterol), disponível no site do Kaggle. Tal dataset foi produzido através de dados de várias instituições, e os direitos autorais de uso do dataset estão citados logo abaixo.
 
@@ -69,12 +63,11 @@ Principais investigadores responsáveis pela coleta de dados de cada instituiç�
 4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:
    Robert Detrano, M.D., Ph.D.
 
-<br/>
+
 <br/>
 
 ## Sobre o desenvolvimento do projeto
 
-<br/>
 
 Para que a criação do algoritmo seja realizada corretamente, todo o desenvolvimento do projeto será composto pelas seguintes etapas:
 1. Análise exploratória dos dados
@@ -103,11 +96,8 @@ Para que a criação do algoritmo seja realizada corretamente, todo o desenvolvi
 Ao final das três etapas, estará disponível o algoritmo preditivo de diagnóstico auxiliar e precoce desejado. Tal algoritmo, ao receber as características de um determinado indivíduo, retornará a probabilidade daquele indivíduo estar em uma situação de risco com relação ao desenvolvimento de doenças cardíacas.
 
 <br/>
-<br/>
 
 ## Sobre o autor
-
-<br/>
 
 Me chamo Vinícius de Paula Pilan, sou estudante de Ciência da Computação na *Universidade Estadual Paulista - Júlio de Mesquita Filho - UNESP* e tenho muito interesse em me profissionalizar na área de Ciência de Dados. Atualmente busco aprender cada vez mais sobre a área e esse projeto será um meio para adquirir ainda mais conhecimento nessa área maravilhosa.
 

@@ -1,5 +1,7 @@
 # Software de diagnóstico precoce de doença cardíaca utilizando algoritmo preditivo/ early diagnosis software of heart disease using predictive algorithm
 
+<br/>
+
 ## Introdução
 
 O termo doença cardíaca é um termo geral usado para se referir a **vários tipos de doenças que envolvem um ou mais componentes do coração**. As principais doenças cardíacas são: 
